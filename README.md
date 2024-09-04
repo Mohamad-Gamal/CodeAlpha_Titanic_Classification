@@ -1,1 +1,1 @@
-# CodeAlpha_Titanic_Classification
+# Titanic_Survive_Classification
